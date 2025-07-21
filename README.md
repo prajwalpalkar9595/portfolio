@@ -4,7 +4,7 @@
 
 vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
- <a href="http://127.0.0.1:5500/index.html"><strong>➥ Live Demo</strong></a> 
+ <a href="[http://127.0.0.1:5500/index.html](https://prajwalpalkar9595.github.io/portfolio/)"><strong>➥ Live Demo</strong></a> 
  
  </div>
  
